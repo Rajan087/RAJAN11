@@ -1,0 +1,5 @@
+a<-c(2,4,5,6,7)
+b<-min(a)
+c<-max(a)
+print(b)
+print(c)
